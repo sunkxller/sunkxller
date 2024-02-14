@@ -6,7 +6,7 @@
     alert("hello?")
     alert("pandak")
     alert("zheitlog")
-    alert("Happy Valentines darlingðŸ˜˜")
+    alert("Happy Valentines darlingŸ˜˜")
     alert("ganda mo talaga")
     alert("penge kiss ganda")
     confirm("bilis na isang kiss lang")
